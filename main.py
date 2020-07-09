@@ -1,10 +1,7 @@
-import pandas as pd
-import io
-import requests
-from time import sleep
+from classes.sysarmy import money20201
 
 def main():
-    print("Hello mofo")
+    # Put code here
 
 if __name__ == "__main__":
     main()
