@@ -2,3 +2,5 @@
 env/
 # Used vscode settings are ignored and only an example for each OS is pushed
 /.vscode/settings.json
+
+__pycache__/
