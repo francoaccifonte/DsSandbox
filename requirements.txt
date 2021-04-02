@@ -1,2 +1,6 @@
 pandas
 requests
+sklearn
+pylint
+matplotlib
+mglearn
