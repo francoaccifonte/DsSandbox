@@ -1,2 +1,12 @@
+wheel
+jupyter
+matplotlib
+mglearn
+mitdeeplearning
+opencv-python
 pandas
+pylint
 requests
+selenium
+sklearn
+flake8
